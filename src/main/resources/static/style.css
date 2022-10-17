@@ -1,0 +1,51 @@
+body {
+    height: 2000px;
+    background-image: url("imagespng.png");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    margin: 5px 0 10px 0;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+thead {
+    font-weight: bold;
+}
+
+.daniel {
+    background-color: rgb(188, 192, 188);
+    border-radius: 15px;
+
+}
+
+.fer {
+    background-color: rgb(255, 255, 204);
+    border-radius: 15px;
+
+}
+
+.Roj {
+    background-color: rgb(204, 255, 204);
+    border-radius: 15px;
+
+}
+
+.ca {
+    background-color: rgb(204, 156, 156);
+    border-radius: 15px;
+
+}
+
+.cam {
+    background-color: rgb(20, 208, 203);
+    border-radius: 15px;
+
+}
+
